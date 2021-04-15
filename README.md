@@ -6,18 +6,20 @@
 
 <h2 >Atendente</h2>
 <ul>
-<li>::marker == $0 "Realizar cadastro"</li>
-<li>Feed com diversos jogadores</li>
-<li>Seguir jogadores que chamaram atenção</li>
-<li>Feed com com atividades recentes dos jogadores e olheiros que segue</li>
-<li>Criar conexões com outros olheiros</li>
-<li>Visualizar perfil de jogadores</li>
-<li>Visualizar informações para contato de jogadores</li>
-<li>Visualizar vídeos de jogadores</li>
-<li>Realizar atualizações cadastrais</li>
-<li>Realizar pagamento de mensalidade via cartão de crédito</li>
+<li>Autenticar cliente</li>
+<li>Chamar o proximo na fila</li>
+<li>Exibir tempo médio de atendimento</li>
+<li>Visualizar andamento da fila em tempo real</li>
 </ul>
-
+<p></p>
+<h2 >Lojista</h2>
+<ul>
+<li>Autentição dos lojistas</li>
+<li>Exibição da quantidade de cliente no dia</li>
+<li>Vizualização dos pedidos realizados</li>
+<li>Visualização dos atendentes ativos</li>
+</ul>
+<p></p>
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
@@ -73,3 +75,30 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+<table>
+<thead>
+<tr>
+<th>Participantes</th>
+<th>E-mail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alvaro Somensi Magnenti</td>
+<td><a href="mailto:alvarosomensi@gmail.com">alvarosomensi@gmail.com</a></td>
+</tr>
+<tr>
+<td>Felipe Rafael dos Santos Barbosa</td>
+<td><a href="mailto:rafaelt.ibarbosa@gmail.com">rafaelt.ibarbosa@gmail.com</a></td>
+</tr>
+<tr>
+<td>Victor Cassio Viana da Luz</td>
+<td><a href="mailto:victorcassiov@gmail.com">victorcassiov@gmail.com</a></td>
+</tr>
+<tr>
+<td>Vitor Henrique Moreira de Souza</td>
+<td><a href="mailto:vhsouzaeng@gmail.com">vhsouzaeng@gmail.com</a></td>
+</tr>
+</tbody>
+</table>
