@@ -76,6 +76,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+<h1 >Autores</h1>
+<p></p>
 <table>
 <thead>
 <tr>
@@ -87,6 +89,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <tr>
 <td>Alvaro Somensi Magnenti</td>
 <td><a href="mailto:alvarosomensi@gmail.com">alvarosomensi@gmail.com</a></td>
+</tr>
+<tr>
+<td>Lucas Eugenio Souza Larrat</td>
+<td><a href="mailto:lucaslarrat@gmail.com">lucaslarrat@gmail.com</a></td>
 </tr>
 <tr>
 <td>Felipe Rafael dos Santos Barbosa</td>
