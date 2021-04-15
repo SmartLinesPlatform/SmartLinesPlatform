@@ -4,7 +4,19 @@
 <h1 >Funcionalidades</h1>
 <p> As funcionalidades que cada perfil do sistema deve ter.</p>
 
-<h2 ></h2>
+<h2 >Atendente</h2>
+<ul>
+<li>::marker == $0 "Realizar cadastro"</li>
+<li>Feed com diversos jogadores</li>
+<li>Seguir jogadores que chamaram atenção</li>
+<li>Feed com com atividades recentes dos jogadores e olheiros que segue</li>
+<li>Criar conexões com outros olheiros</li>
+<li>Visualizar perfil de jogadores</li>
+<li>Visualizar informações para contato de jogadores</li>
+<li>Visualizar vídeos de jogadores</li>
+<li>Realizar atualizações cadastrais</li>
+<li>Realizar pagamento de mensalidade via cartão de crédito</li>
+</ul>
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
