@@ -49,33 +49,18 @@ $ npm run dev:server
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
-
-Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
-
-Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
-### 🛠 Tecnologias
-
+ 
+<h1>### 🛠 Tecnologias</h1>
+<p></p>
 As seguintes ferramentas foram usadas na construção do projeto:
-
+<p></p>
+- [Firebase](https://firebase.google.com/?hl=pt-br)
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-
+<p></p>
 <h1 >Autores</h1>
 <p></p>
 <table>
