@@ -1,9 +1,8 @@
 <h1 align="center">SmartLines</h1>
-=================
 <p align="center">Escrever uma breve descrição</p>
-=================
+
 Tabela de conteúdos
-=================
+
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
@@ -12,7 +11,7 @@ Tabela de conteúdos
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
-=================
+
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
@@ -43,13 +42,13 @@ $ npm run dev:server
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-# Clone este repositório
+Clone este repositório
 $ git clone <https://github.com/tgmarinho/nlw1>
 
-# Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd nlw1
 
-# Vá para a pasta server
+Vá para a pasta server
 $ cd server
 
 # Instale as dependências
