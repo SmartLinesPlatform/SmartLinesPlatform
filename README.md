@@ -18,8 +18,25 @@
 <li>Exibição da quantidade de cliente no dia</li>
 <li>Vizualização dos pedidos realizados</li>
 <li>Visualização dos atendentes ativos</li>
+<li>Exibir ranking pedidos/atendente</li>
+<li>Exibir tempo medio dos atendimentos</li>
+<li>Visualizar quantidade de desistencias da fila</li>
+<li>Vizualizar principais clientes da loja</li>
+<li>Cadastrar novos atendentes</li>
 </ul>
 <p></p>
+<h2 >Adminstrador</h2>
+<ul>
+<li>Autenticar admin</li>
+<li>Visualização de clientes ativos</li>
+<li>Vizualização dos pedidos finalizados</li>
+<li>Exibir ranking de clientes</li>
+<li>Visualizar ranking de tempo medio de espera por loja</li>
+<li>Cadastrar novas publicidades</li>
+<li>Cadastrar novas lojas</li>
+</ul>
+<p></p>
+
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
@@ -50,17 +67,17 @@ $ npm run dev:server
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
  
-<h1>### 🛠 Tecnologias</h1>
+<h1>🛠 Tecnologias</h1>
 <p></p>
 As seguintes ferramentas foram usadas na construção do projeto:
-<p></p>
+
 - [Firebase](https://firebase.google.com/?hl=pt-br)
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-<p></p>
+
 <h1 >Autores</h1>
 <p></p>
 <table>
