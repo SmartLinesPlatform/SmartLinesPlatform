@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://user-images.githubusercontent.com/50224013/114957785-1f92be80-9e38-11eb-9bd5-6b019626f252.jpeg" alt="Smart Lines" width="120">
+  <img src="https://user-images.githubusercontent.com/50224013/114957785-1f92be80-9e38-11eb-9bd5-6b019626f252.jpeg" alt="Smart Lines" width="480">
 <br>
 </h1>
 
