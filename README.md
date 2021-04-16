@@ -6,7 +6,7 @@
 Smart Lines
 </h1>
 
-<p align="center">Escrever uma breve descrição</p>
+<p align="center">O Smart Lines, é um sistema capaz de gerenciar e organizar as filas de restaurantes de shopping, de forma a diminuir e evitar aglomerações e a ociosidade dos clientes na fila. </p>
 
 <h1 >Funcionalidades</h1>
 <p> As funcionalidades que cada perfil do sistema deve ter.</p>
