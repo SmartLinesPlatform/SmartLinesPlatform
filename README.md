@@ -47,6 +47,8 @@ Smart Lines
 <h1 >Telas</h1>
 <div display="inline-block">
   <img src="https://user-images.githubusercontent.com/50224013/115812583-fb9b2400-a3c7-11eb-8a5a-75e8a6427a10.png" alt="Tela de Login">
+  <img src="https://user-images.githubusercontent.com/50224013/115813177-14f0a000-a3c9-11eb-8841-9b17daa05b6b.png" alt="Tela da Fila Usuário">
+ 
 </div>
 
 
