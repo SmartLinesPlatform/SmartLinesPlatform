@@ -49,7 +49,7 @@ Smart Lines
   <img src="https://user-images.githubusercontent.com/50224013/115812583-fb9b2400-a3c7-11eb-8a5a-75e8a6427a10.png" alt="Tela de login" height="500">
   <img src="https://user-images.githubusercontent.com/50224013/115813177-14f0a000-a3c9-11eb-8841-9b17daa05b6b.png" alt="Tela fila do usuario" height="500">
   <img src="https://user-images.githubusercontent.com/50224013/115813343-626d0d00-a3c9-11eb-840e-2dbce8705540.png" alt="Tela dos restaurantes" height="500">
-  <img src="https://user-images.githubusercontent.com/50224013/115813465-99432300-a3c9-11eb-92d1-069636e2eba4.png" alt="Tela fila do caixa" width="900" height="500">
+  <img src="https://user-images.githubusercontent.com/50224013/115813465-99432300-a3c9-11eb-92d1-069636e2eba4.png" alt="Tela fila do caixa" width="850" height="500">
 </div>
 
 
