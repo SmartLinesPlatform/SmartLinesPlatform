@@ -43,7 +43,13 @@ Smart Lines
 <li>Cadastrar novas lojas</li>
 </ul>
 <p></p>
- 
+
+<h1 >Telas</h1>
+<div display="inline-block">
+  <img src="https://user-images.githubusercontent.com/50224013/115812583-fb9b2400-a3c7-11eb-8a5a-75e8a6427a10.png" alt="Tela de Login">
+</div>
+
+
 <h1>🛠 Tecnologias</h1>
 <p></p>
 As seguintes ferramentas foram usadas na construção do projeto:
