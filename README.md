@@ -45,14 +45,24 @@ Smart Lines
 <p></p>
 
 <h1 >Telas</h1>
+<h2 >Telas do Lojista</h2>
 <div display="inline-block">
-  <img src="https://user-images.githubusercontent.com/50224013/115812583-fb9b2400-a3c7-11eb-8a5a-75e8a6427a10.png" alt="Tela de login" height="500">
-  <img src="https://user-images.githubusercontent.com/50224013/115813177-14f0a000-a3c9-11eb-8841-9b17daa05b6b.png" alt="Tela fila do usuario" height="500">
-  <img src="https://user-images.githubusercontent.com/50224013/115813343-626d0d00-a3c9-11eb-840e-2dbce8705540.png" alt="Tela dos restaurantes" height="500">
-  <img src="https://user-images.githubusercontent.com/50224013/115813465-99432300-a3c9-11eb-92d1-069636e2eba4.png" alt="Tela fila do caixa" height="500">
-  <img src="https://user-images.githubusercontent.com/50224013/116623390-8d50e700-a91c-11eb-9abf-2edcc78f59ad.jpeg" alt="Tela do atendente" height="500">
+  <img src="https://user-images.githubusercontent.com/50224013/116625021-56c89b80-a91f-11eb-8df1-84dfabf0e271.png" alt="Tela do Lojista Login">
+  <img src="https://user-images.githubusercontent.com/50224013/116625033-5af4b900-a91f-11eb-93fd-1890595be08e.png" alt="Tela do Lojista Home">
+  </div>
+<h2 >Tela do Atendente</h2>
+<div display="inline-block">
+  <img src="https://user-images.githubusercontent.com/50224013/116625199-a0b18180-a91f-11eb-895b-af8865b8d319.png" alt="Tela do Atendente">
+  </div>
+<h2 >Telas da Aplicação Mobile</h2>
+<div display="inline-block">
+  <img src="https://user-images.githubusercontent.com/50224013/116625384-e9693a80-a91f-11eb-81fa-380777b044ee.png" alt="Tela do APP Mobile Login">
+  <img src="https://user-images.githubusercontent.com/50224013/116625391-ec642b00-a91f-11eb-89c3-e601f9581378.png" alt="Tela do APP Mobile Cadastro">
+  <img src="https://user-images.githubusercontent.com/50224013/116625407-f2f2a280-a91f-11eb-8de9-ce4697cce316.png" alt="Tela do APP Mobile Home">
+  <img src="https://user-images.githubusercontent.com/50224013/116625421-f84fed00-a91f-11eb-844d-f568e2c2fc13.png" alt="Tela do APP Mobile Fila">
+  <img src="https://user-images.githubusercontent.com/50224013/116625430-fb4add80-a91f-11eb-859a-807927ecb4dd.png" alt="Tela do APP Mobile Na Fila"> 
 </div>
-
+</div>
 
 <h1>🛠 Tecnologias</h1>
 <p></p>
