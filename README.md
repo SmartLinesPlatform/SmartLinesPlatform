@@ -47,20 +47,20 @@ Smart Lines
 <h1 >Telas</h1>
 <h2 >Telas do Lojista</h2>
 <div display="inline-block">
-  <img src="https://user-images.githubusercontent.com/50224013/116625021-56c89b80-a91f-11eb-8df1-84dfabf0e271.png" alt="Tela do Lojista Login">
-  <img src="https://user-images.githubusercontent.com/50224013/116625033-5af4b900-a91f-11eb-93fd-1890595be08e.png" alt="Tela do Lojista Home">
+  <img src="https://user-images.githubusercontent.com/50224013/116625021-56c89b80-a91f-11eb-8df1-84dfabf0e271.png" alt="Tela do Lojista Login" height="500">
+  <img src="https://user-images.githubusercontent.com/50224013/116625033-5af4b900-a91f-11eb-93fd-1890595be08e.png" alt="Tela do Lojista Home" height="500">
   </div>
 <h2 >Tela do Atendente</h2>
 <div display="inline-block">
-  <img src="https://user-images.githubusercontent.com/50224013/116625199-a0b18180-a91f-11eb-895b-af8865b8d319.png" alt="Tela do Atendente">
+  <img src="https://user-images.githubusercontent.com/50224013/116625199-a0b18180-a91f-11eb-895b-af8865b8d319.png" alt="Tela do Atendente" height="500">
   </div>
 <h2 >Telas da Aplicação Mobile</h2>
 <div display="inline-block">
-  <img src="https://user-images.githubusercontent.com/50224013/116625384-e9693a80-a91f-11eb-81fa-380777b044ee.png" alt="Tela do APP Mobile Login">
-  <img src="https://user-images.githubusercontent.com/50224013/116625391-ec642b00-a91f-11eb-89c3-e601f9581378.png" alt="Tela do APP Mobile Cadastro">
-  <img src="https://user-images.githubusercontent.com/50224013/116625407-f2f2a280-a91f-11eb-8de9-ce4697cce316.png" alt="Tela do APP Mobile Home">
-  <img src="https://user-images.githubusercontent.com/50224013/116625421-f84fed00-a91f-11eb-844d-f568e2c2fc13.png" alt="Tela do APP Mobile Fila">
-  <img src="https://user-images.githubusercontent.com/50224013/116625430-fb4add80-a91f-11eb-859a-807927ecb4dd.png" alt="Tela do APP Mobile Na Fila"> 
+  <img src="https://user-images.githubusercontent.com/50224013/116625384-e9693a80-a91f-11eb-81fa-380777b044ee.png" alt="Tela do APP Mobile Login" height="500">
+  <img src="https://user-images.githubusercontent.com/50224013/116625391-ec642b00-a91f-11eb-89c3-e601f9581378.png" alt="Tela do APP Mobile Cadastro" height="500">
+  <img src="https://user-images.githubusercontent.com/50224013/116625407-f2f2a280-a91f-11eb-8de9-ce4697cce316.png" alt="Tela do APP Mobile Home" height="500">
+  <img src="https://user-images.githubusercontent.com/50224013/116625421-f84fed00-a91f-11eb-844d-f568e2c2fc13.png" alt="Tela do APP Mobile Fila" height="500">
+  <img src="https://user-images.githubusercontent.com/50224013/116625430-fb4add80-a91f-11eb-859a-807927ecb4dd.png" alt="Tela do APP Mobile Na Fila" height="500"> 
 </div>
 </div>
 
