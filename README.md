@@ -45,11 +45,6 @@ Smart Lines
 <p></p>
 
 <h1 >Telas</h1>
-<h2 >Telas do Lojista</h2>
-<div display="inline-block">
-  <img src="https://user-images.githubusercontent.com/50224013/116625021-56c89b80-a91f-11eb-8df1-84dfabf0e271.png" alt="Tela do Lojista Login" height="500">
-  <img src="https://user-images.githubusercontent.com/50224013/116625033-5af4b900-a91f-11eb-93fd-1890595be08e.png" alt="Tela do Lojista Home" height="500">
-  </div>
 <h2 >Tela do Atendente</h2>
 <div display="inline-block">
   <img src="https://user-images.githubusercontent.com/50224013/116625199-a0b18180-a91f-11eb-895b-af8865b8d319.png" alt="Tela do Atendente" height="500">
